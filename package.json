@@ -1,0 +1,20 @@
+{
+  "name": "html-2-ebook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "epub-gen": "^0.1.0",
+    "lodash-es": "^4.17.15",
+    "nodejs-web-scraper": "^3.1.0",
+    "path": "^0.12.7",
+    "puppeteer": "^4.0.1",
+    "sanitize-filename": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": {
+    "myapp": "bin.js"
+  }
+}
